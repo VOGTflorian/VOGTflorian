@@ -2,7 +2,7 @@
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florian-vogt-5866851bb/)
 
-I am Florian Vogt, a Master's student in Finance (Asset & Risk Management) at [HEC Lausanne](https://www.unil.ch/hec/en/home.html). I aspire to work in the Asset Management or Fixed Income industry.
+I am Florian Vogt, a Master's student in Finance (Asset & Risk Management) at [HEC Lausanne](https://www.unil.ch/hec/en/home.html). I aspire to work in the Asset Management or Risk Management industry.
 
 * Currently learning Python
 * Currently working on "Style rotation on Swiss long-only equity factors" using Python
